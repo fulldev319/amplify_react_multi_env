@@ -1,20 +1,38 @@
 {
-	"dev": {
-		"awscloudformation": {
-			"AuthRoleName": "amplify-env-one-dev-44032-authRole",
-			"UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-unauthRole",
-			"AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-authRole",
-			"Region": "us-east-2",
-			"DeploymentBucketName": "amplify-env-one-dev-44032-deployment",
-			"UnauthRoleName": "amplify-env-one-dev-44032-unauthRole",
-			"StackName": "amplify-env-one-dev-44032",
-			"StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-dev-44032/45bb1ef0-9a00-11ea-aa26-06d398e7edd6",
-			"AmplifyAppId": "d22oedm62cyttv"
-		},
-		"categories": {
-			"auth": {
-				"envonefc508406": {}
-			}
-		}
-	}
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-env-one-dev-44032-authRole",
+      "UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-env-one-dev-44032-deployment",
+      "UnauthRoleName": "amplify-env-one-dev-44032-unauthRole",
+      "StackName": "amplify-env-one-dev-44032",
+      "StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-dev-44032/45bb1ef0-9a00-11ea-aa26-06d398e7edd6",
+      "AmplifyAppId": "d22oedm62cyttv"
+    },
+    "categories": {
+      "auth": {
+        "envonefc508406": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-env-one-prod-62453-authRole",
+      "UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-prod-62453-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-prod-62453-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-env-one-prod-62453-deployment",
+      "UnauthRoleName": "amplify-env-one-prod-62453-unauthRole",
+      "StackName": "amplify-env-one-prod-62453",
+      "StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-prod-62453/d062b190-9a0e-11ea-8e3c-0a9fef599330",
+      "AmplifyAppId": "d22oedm62cyttv"
+    },
+    "categories": {
+      "auth": {
+        "envonefc508406": {}
+      }
+    }
+  }
 }

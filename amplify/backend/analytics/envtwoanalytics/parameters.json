@@ -1,0 +1,20 @@
+{
+    "appName": "envtwoanalytics",
+    "roleName": "pinpointLambdaRole25814769",
+    "cloudWatchPolicyName": "cloudWatchPolicy25814769",
+    "pinpointPolicyName": "pinpointPolicy25814769",
+    "authPolicyName": "pinpoint_amplify_25814769",
+    "unauthPolicyName": "pinpoint_amplify_25814769",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
