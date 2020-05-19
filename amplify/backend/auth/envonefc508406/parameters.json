@@ -1,6 +1,6 @@
 {
     "identityPoolName": "envonefc508406_identitypool_fc508406",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "envonefc508406",
     "userPoolName": "envonefc508406_userpool_fc508406",
     "autoVerifiedAttributes": [

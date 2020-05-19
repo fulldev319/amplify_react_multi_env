@@ -6,5 +6,11 @@
 			"dependsOn": [],
 			"customAuth": false
 		}
+	},
+	"analytics": {
+		"envtwoanalytics": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
 	}
 }
