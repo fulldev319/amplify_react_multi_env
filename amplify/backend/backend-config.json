@@ -21,7 +21,7 @@
 						}
 					}
 				}
-			}
+			},
 	"analytics": {
 		"envtwoanalytics": {
 			"service": "Pinpoint",
