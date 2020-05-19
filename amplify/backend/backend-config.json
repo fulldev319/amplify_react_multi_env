@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"envonefc508406": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
