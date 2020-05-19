@@ -1,38 +1,20 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-env-one-dev-44032-authRole",
-            "UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-authRole",
-            "Region": "us-east-2",
-            "DeploymentBucketName": "amplify-env-one-dev-44032-deployment",
-            "UnauthRoleName": "amplify-env-one-dev-44032-unauthRole",
-            "StackName": "amplify-env-one-dev-44032",
-            "StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-dev-44032/45bb1ef0-9a00-11ea-aa26-06d398e7edd6",
-            "AmplifyAppId": "d22oedm62cyttv"
-        },
-        "categories": {
-            "auth": {
-                "envonefc508406": {}
-            }
-        }
-    },
-    "stage": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-env-one-stage-53813-authRole",
-            "UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-stage-53813-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-stage-53813-authRole",
-            "Region": "us-east-2",
-            "DeploymentBucketName": "amplify-env-one-stage-53813-deployment",
-            "UnauthRoleName": "amplify-env-one-stage-53813-unauthRole",
-            "StackName": "amplify-env-one-stage-53813",
-            "StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-stage-53813/4a510120-9a08-11ea-8ab6-02c25da8714e",
-            "AmplifyAppId": "d22oedm62cyttv"
-        },
-        "categories": {
-            "auth": {
-                "envonefc508406": {}
-            }
-        }
-    }
+	"dev": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-env-one-dev-44032-authRole",
+			"UnauthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::435625426528:role/amplify-env-one-dev-44032-authRole",
+			"Region": "us-east-2",
+			"DeploymentBucketName": "amplify-env-one-dev-44032-deployment",
+			"UnauthRoleName": "amplify-env-one-dev-44032-unauthRole",
+			"StackName": "amplify-env-one-dev-44032",
+			"StackId": "arn:aws:cloudformation:us-east-2:435625426528:stack/amplify-env-one-dev-44032/45bb1ef0-9a00-11ea-aa26-06d398e7edd6",
+			"AmplifyAppId": "d22oedm62cyttv"
+		},
+		"categories": {
+			"auth": {
+				"envonefc508406": {}
+			}
+		}
+	}
 }
